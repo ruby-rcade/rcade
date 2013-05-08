@@ -1,7 +1,10 @@
 # Rcade
 
-TODO: Write a gem description
+A platform for building arcade games in Ruby.
 
+This library is a work in progress.
+
+<!--
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -27,3 +30,4 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+-->
